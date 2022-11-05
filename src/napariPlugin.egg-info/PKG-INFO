@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: napariPlugin
+Version: 0.0.1
+Summary: A plugin for segmenting a set of apple tree images and annotating pixels wrongly predicted
+Home-page: https://github.com/lucasbernigaudsamatan/napariPlugin
+Author: Lucas Bernigaud
+Author-email: bernigaudlucas@yahoo.fr
+License: BSD-3-Clause
+Project-URL: Bug Tracker, https://github.com/lucasbernigaudsamatan/napariPlugin/issues
+Project-URL: Documentation, https://github.com/lucasbernigaudsamatan/napariPlugin#README.md
+Project-URL: Source Code, https://github.com/lucasbernigaudsamatan/napariPlugin
+Project-URL: User Support, https://github.com/lucasbernigaudsamatan/napariPlugin/issues
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Framework :: napari
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Scientific/Engineering :: Image Processing
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Provides-Extra: testing
+License-File: LICENSE
+
+# napari-gtlearning

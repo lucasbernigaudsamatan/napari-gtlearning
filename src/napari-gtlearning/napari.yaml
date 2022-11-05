@@ -1,0 +1,11 @@
+name: napari-gtlearning
+display_name: Gtlearning
+contributions:
+  commands:
+    - id: napari-gtlearning.process_function_load
+      python_name: napari_gtlearning._widget:process_function_load
+      title: Chargement des images
+
+  widgets:
+    - command: napari-gtlearning.process_function_load
+      display_name: Chargement des images

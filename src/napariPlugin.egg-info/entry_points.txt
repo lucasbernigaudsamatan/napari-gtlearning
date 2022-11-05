@@ -1,0 +1,2 @@
+[napari.manifest]
+napariPlugin = napariplugin:napari.yaml
